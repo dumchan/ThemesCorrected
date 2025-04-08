@@ -517,7 +517,7 @@
     },
     "background": {
         "url": "https://raw.githubusercontent.com/dumchan/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/zome.png",
-        "alpha": 0.30
+        "alpha": 0.25
     },
     "plus": {
         "version": 0,
